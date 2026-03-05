@@ -1,0 +1,31 @@
+[ {
+  "id" : "4879ea46-120c-4b53-ae60-f8b0eb7e1cec",
+  "username" : "1",
+  "documentId" : "0f597f9f-f839-4585-95f6-992f0d1e0eea",
+  "lastSeenVersion" : 1
+}, {
+  "id" : "35899c4b-e8cf-4e51-ab7d-d3f7738d748f",
+  "username" : "medialab",
+  "documentId" : "cf337ef8-0e02-42f0-9fdd-54a68a58e5f0",
+  "lastSeenVersion" : 2
+}, {
+  "id" : "ca791b78-3a32-4e32-874b-326e06a189e3",
+  "username" : "medialab",
+  "documentId" : "0f597f9f-f839-4585-95f6-992f0d1e0eea",
+  "lastSeenVersion" : 1
+}, {
+  "id" : "5c7dd11e-f8c8-4d38-af0d-c3d1e96bb9af",
+  "username" : "medialab",
+  "documentId" : "a15f6e03-2a6e-42d7-b0d2-f47a47cb2531",
+  "lastSeenVersion" : 3
+}, {
+  "id" : "cccf4a55-2a78-4254-b05c-6f9206007145",
+  "username" : "1",
+  "documentId" : "a15f6e03-2a6e-42d7-b0d2-f47a47cb2531",
+  "lastSeenVersion" : 4
+}, {
+  "id" : "8828077f-58ae-4740-baaa-3e4888b92a5d",
+  "username" : "medialab",
+  "documentId" : "59b6446b-8cb5-4946-82f8-f3e0b9557130",
+  "lastSeenVersion" : 1
+} ]

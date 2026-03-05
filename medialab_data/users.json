@@ -1,0 +1,29 @@
+[ {
+  "id" : "9fde1f2c-848f-4763-b214-3f9e412b2c7b",
+  "username" : "1",
+  "passwordHash" : "MQ==",
+  "fullName" : "",
+  "role" : "USER",
+  "allowedCategoryUuids" : [ "b2970595-3522-4bc1-a196-9eb1c9a91309" ]
+}, {
+  "id" : "51525327-3d89-4498-9c98-a5511a658013",
+  "username" : "medialab",
+  "passwordHash" : "bWVkaWFsYWJfMjAyNQ==",
+  "fullName" : "Administrator",
+  "role" : "ADMIN",
+  "allowedCategoryUuids" : [ "b2970595-3522-4bc1-a196-9eb1c9a91309", "deb1b75b-dcd2-4085-a880-6a05973d0f82", "d1a4e6a2-9c65-4f19-ab98-c5af2be2d0f7" ]
+}, {
+  "id" : "c1e805f7-590c-420a-a12d-4fe05d8aeb40",
+  "username" : "3",
+  "passwordHash" : "Mw==",
+  "fullName" : "3",
+  "role" : "AUTHOR",
+  "allowedCategoryUuids" : [ "b2970595-3522-4bc1-a196-9eb1c9a91309", "deb1b75b-dcd2-4085-a880-6a05973d0f82", "d1a4e6a2-9c65-4f19-ab98-c5af2be2d0f7" ]
+}, {
+  "id" : "8598a2b9-9004-407f-95b6-14cb9300e848",
+  "username" : "2",
+  "passwordHash" : "Mg==",
+  "fullName" : "2",
+  "role" : "AUTHOR",
+  "allowedCategoryUuids" : [ "b2970595-3522-4bc1-a196-9eb1c9a91309" ]
+} ]
